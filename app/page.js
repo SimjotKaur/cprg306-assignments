@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main>
       <h1>CPRG 306: Web Development 2 - Assignments</h1>
-      <Link href="/https://cprg306-assignments.vercel.app/week-2">
+      <Link href="/week-2">
         Go to Week 2 Assignment
       </Link>
     </main>
