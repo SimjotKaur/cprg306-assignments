@@ -2,7 +2,7 @@ import NewItem from './new-item';
 
 export default function Page() {
   return (
-    <main className="flex items-center justify-center bg-brown-800">
+    <main className="bg-yellow-800 min-h-screen p-4">
       <NewItem />
     </main>
   );

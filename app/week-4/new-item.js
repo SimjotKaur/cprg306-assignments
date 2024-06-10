@@ -18,7 +18,7 @@ export default function NewItem() {
   };
 
   return (
-    <form onSubmit={handleSubmit} className="space-y-4 bg-gray-900 p-6 rounded-lg shadow-lg">
+    <form onSubmit={handleSubmit} className="space-y-4 bg-gray-900 p-6 rounded-lg shadow-lg max-w-md mx-auto mt-12">
       <div>
         <label className="block text-white"></label>
         <input
