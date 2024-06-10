@@ -16,6 +16,11 @@ export default function Home() {
            
           </Link>
         </li>
+        <li>
+          <Link href="/week-4" legacyBehavior>
+            <a className="text-xl text-white-400">Week 4 Assignment</a>
+          </Link>
+        </li>
       </ul>
     </main>
   );
